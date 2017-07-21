@@ -5,6 +5,7 @@ class file1
 {
 public:
     file1() = default;
+    ~file1() = default;
 };
 
 #endif
